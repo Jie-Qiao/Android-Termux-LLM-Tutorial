@@ -33,7 +33,7 @@ These packages include the Vulkan toolchain and other essential libraries.
 
 To utilize GPU acceleration, we need to install the Vulkan driver. You can download the driver from the following link:
 
-[Download Vulkan Driver](https://drive.google.com/file/d/1_QHDQFbahiq9UOHKBKZfCQwJzwZoRimE/view?usp=drivesdk)
+[Download Vulkan Driver](https://github.com/Jie-Qiao/Android-Termux-LLM-Tutorial/raw/refs/heads/main/mesa-vulkan-icd-wrapper-dbg_24.2.5-5_aarch64.deb)
 
 After downloading, locate the driver file and install it using the following command:
 
