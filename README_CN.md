@@ -32,7 +32,7 @@ pkg update && pkg install tur-repo x11-repo vulkan-tools shaderc
 
 为了使用 GPU 加速，我们需要安装 Vulkan 驱动。你可以从以下链接下载驱动：
 
-[下载 Vulkan 驱动](https://drive.google.com/file/d/1_QHDQFbahiq9UOHKBKZfCQwJzwZoRimE/view?usp=drivesdk)
+[下载 Vulkan 驱动](https://github.com/Jie-Qiao/Android-Termux-LLM-Tutorial/raw/refs/heads/main/mesa-vulkan-icd-wrapper-dbg_24.2.5-5_aarch64.deb)
 
 下载完成后，找到驱动文件并使用以下命令安装：
 
