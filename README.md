@@ -101,4 +101,5 @@ Locate the `llama-cli` binary in the compiled files and run the model:
 ### 6. References
 
 [llama.cpp/docs/build.md at master · ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp/blob/master/docs/build.md)
+
 [Qualcomm drivers it's here! : r/termux](https://www.reddit.com/r/termux/comments/1gmnf7s/qualcomm_drivers_its_here/)
